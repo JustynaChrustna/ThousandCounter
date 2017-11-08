@@ -13,6 +13,12 @@ Rules of this game
 
 https://en.wikipedia.org/wiki/Thousand_(game)
 
+![](counter1.png)
+
+
+![](counter2.jpg)
+
+
 
 
 
